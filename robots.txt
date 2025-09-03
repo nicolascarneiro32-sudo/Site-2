@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nicolascarneiro32-sudo.github.io/Site/sitemap.xml
+
+# Disallow common non-content files
+Disallow: /styles.css
+Disallow: /script.js
+
